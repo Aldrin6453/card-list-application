@@ -9,7 +9,7 @@ app.use(express.json());
 //implement the CORS config
 const cors = require('cors');
 app.use(cors());
-//products array
+//the products array
 let products = [
     { id: 1, name: 'Product 1', description: 'description 1', price: 100, imageUrl: '' },
     { id: 2, name: 'Product 2', description: 'description 2', price: 200, imageUrl: '' },
