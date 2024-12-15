@@ -1,8 +1,8 @@
 # Card List Application - Setup and Launch Instructions
 
 1. Prerequisites
--Ensure you have Node.js (version 14 or higher) installed on your machine.
--Make sure npm (Node Package Manager) is also installed.
+  -Ensure you have Node.js (version 14 or higher) installed on your machine.
+  -Make sure npm (Node Package Manager) is also installed.
 
 2. Clone the repository
 -Open your terminal and run the command: git clone https://github.com/Aldrin6453/swe-interview-test.git
