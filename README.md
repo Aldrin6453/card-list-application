@@ -36,5 +36,3 @@
 8.Technology Stack
 - The frontend is built using React, Material UI, and Axios.
 - The backend is built using Node.js and Express.js.
-
-Thank you to A Round Entertainment for the coding test.
